@@ -1,0 +1,1 @@
+console.log(`결과: ${array[i]} + ${array[i]}... = ${array[array.length -1]}`)
